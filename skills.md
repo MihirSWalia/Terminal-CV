@@ -1,7 +1,7 @@
 ---
-title: /skills
+title: /Skills
 layout: home
-permalink: /skills
+permalink: /Skills
 ---
 
 # Lorem ipsum edit
