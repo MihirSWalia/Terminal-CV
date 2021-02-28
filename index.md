@@ -21,7 +21,7 @@ Testbook Edu Solutions Pvt Ltd. [January, 2020 - April 2020]
 - Setup and manage monitoring environment for all the instances and tools.
 - Writing shell scripts for automating several tasks.
 
-<br>
+
 Quality Assurance Intern 
 Testbook Edu Solutions Pvt Ltd. [May, 2018 - August 2018]
 - Performed manual testing of the android application, Frontend of the website and the Backend by writing test cases.
