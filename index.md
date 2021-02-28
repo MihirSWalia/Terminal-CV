@@ -1,5 +1,5 @@
 ---
-title: /
+title: /Mihir
 layout: home
 permalink: /
 ---
