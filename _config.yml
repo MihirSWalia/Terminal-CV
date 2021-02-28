@@ -1,6 +1,6 @@
 # Example Site settings
 
-#google_analytics: UA-NNNNNNNN-N
+ # google_analytics: UA-NNNNNNNN-N
 
 header_pages: 
   - index.md #edu,exp
@@ -8,7 +8,7 @@ header_pages:
   - projects.md #projects
   - certs.md #certifications
   - contact.md #contact
-  #- blog.md #blog
+  - blog.md #blog
   
 
 footer: 'Hi, I'm Mihir Walia!'
