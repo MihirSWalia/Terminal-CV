@@ -5,6 +5,7 @@ permalink: /Projects
 ---
 
 # Projects
+<br>
 
 <strong>- Wifi Jammer :</strong> Programmed a Node MCU chip to work as a wifi jammer for de-authenticating other devices connected to a router and hosting multiple fake access points. 
 
