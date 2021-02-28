@@ -3,7 +3,6 @@
  # google_analytics: UA-NNNNNNNN-N
 
 header_pages: 
-"Hey, I'm Mihir Walia!"
   - index.md #edu,exp
   - skills.md #skills
   - projects.md #projects
