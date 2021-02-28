@@ -26,6 +26,7 @@ permalink: /Certs
 # Badges
 
 - <strong>Rangeforce :</strong> Blue Team Star Challenge.
+- <strong>Rangeforce :</strong> SOC Analyst 1.
 - <strong>PenetesterLab :</strong> Essential Badge.
 - <strong>PenetesterLab :</strong> PCAP Badge.
 - <strong>PenetesterLab :</strong> UNIX Badge.
