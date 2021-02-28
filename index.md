@@ -6,11 +6,12 @@ permalink: /
 
 # Education
 
+
 Ajeenkya D.Y. Patil University, Pune, India. [August, 2017 - May 2020]
 Bachelors in computer application with cloud technology and information security, CGPA: 9.05.
 Graduate Coursework: Ethical Hacking, Information Security, Digital Forensics, Cryptography, Cloud Technology, Amazon Web Services, Database Management, Server Operating Systems, Virtualization, Networking, ITIL and RiskManagement.
 
-#Experience
+# Experience
 
 
 DevOps / SRE / SysAdmin Intern
