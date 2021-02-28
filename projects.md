@@ -22,7 +22,6 @@ permalink: /Projects
 
 <strong>- Automating Backup :</strong> Bash script for GCP which locates the latest production server from load-balancing, storing an image of it to the specified Data Center.
 
-<strong>- Trojan for android :</strong> Generated a trojan payload for Android OS using msfvenom and controlled it with metasploit's meterpreter with reverse tcp which provides with a 
-reverse shell.
+<strong>- Trojan for android :</strong> Generated a trojan payload for Android OS using msfvenom and controlled it with metasploit's meterpreter with reverse tcp which provides with a reverse shell.
 
 <strong>- Student Management Project in JAVA :</strong> Created a user-friendly software to manage student records using Java Swing and MySQL in NetBeans IDE.
