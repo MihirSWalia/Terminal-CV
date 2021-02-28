@@ -6,6 +6,8 @@ permalink: /Contact
 
 # Contact Me
 
+<strong>Name : </strong> Mihir Walia
+<strong>Alias :</strong> Shade Z
 <strong>Email :</strong> <a href="mailto:mihirswalia@gmail.com">mihirswalia@gmail.com</a>
 <strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/mihir-walia-972642173/">https://www.linkedin.com/in/mihir-walia-972642173/</a>
 <strong>Mobile :</strong> (+91) 7219533255
