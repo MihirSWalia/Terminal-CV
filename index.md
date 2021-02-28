@@ -18,7 +18,9 @@ Testbook Edu Solutions Pvt Ltd. [January, 2020 - April 2020]
 - Granting and Revoking appropriate access needed for colleagues.
 - Setup and manage monitoring environment for all the instances and tools.
 - Writing shell scripts for automating several tasks.
-<br>
+
+
+
 
 Quality Assurance Intern 
 Testbook Edu Solutions Pvt Ltd. [May, 2018 - August 2018]
@@ -26,7 +28,9 @@ Testbook Edu Solutions Pvt Ltd. [May, 2018 - August 2018]
 - Represented the QA team for the official team meetings.
 - Managed a case of bug bounty with the server having RCEs and helped the Bug hunter communicate with the team.
 - Helped the support team with all the technical issues with customers.
-<br>
+
+
+
 
 Core Team Member (Cybersecurity Community)
 SecOnset Community. [December, 2020 - Present]
