@@ -4,7 +4,7 @@ google_analytics: UA-NNNNNNNN-N
 
 header_pages:
   - index.md #edu,exp
-  - about.md #skills
+  - skills.md #skills
   - projects.md #projects
   - contact.md #contact
   - blog.md #blog
