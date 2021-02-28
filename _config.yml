@@ -6,7 +6,7 @@ header_pages:
   - index.md
   - about.md
 
-footer: 'follow us on <a href="https://www.linkedin.com/in/mihir-walia-972642173/">LinkedIn</a>'
+footer: 'Contact me: <a href="https://www.linkedin.com/in/mihir-walia-972642173/">LinkedIn</a>'
 
 style: dark #light  dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
