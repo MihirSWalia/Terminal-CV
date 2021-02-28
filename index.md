@@ -1,5 +1,5 @@
 ---
-title: /Mihir
+title: /Mihir Walia
 layout: home
 permalink: /
 ---
