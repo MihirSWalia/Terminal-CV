@@ -12,7 +12,7 @@ header_pages:
 
 footer: 'Contact me: <a href="https://www.linkedin.com/in/mihir-walia-972642173/">LinkedIn</a>'
 
-style: hacker #light  dark (default) or light
+style: light #light  dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
