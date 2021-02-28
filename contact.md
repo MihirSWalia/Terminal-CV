@@ -6,7 +6,7 @@ permalink: /Contact
 
 # Contact Me
 
-<strong>Email :</strong> mihirswalia@gmail.com
-<strong>LinkedIn :</strong> https://www.linkedin.com/in/mihir-walia-972642173/
+<strong>Email :</strong> <a href="mailto:mihirswalia@gmail.com">mihirswalia@gmail.com</a>
+<strong>LinkedIn :</strong> <a href="https://www.linkedin.com/in/mihir-walia-972642173/">https://www.linkedin.com/in/mihir-walia-972642173/</a>
 <strong>Mobile :</strong> (+91) 7219533255
 <strong>Address :</strong> Aum Sai, Kharghar, Navi Mumbai, Maharashtra, India. - 410210
