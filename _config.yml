@@ -11,7 +11,7 @@ header_pages:
   - blog.md #blog
   
 
-footer: 'Contact me: <a href="https://www.linkedin.com/in/mihir-walia-972642173/">LinkedIn</a>'
+footer: 'Hi, I'm Mihir Walia!'
 
 style: hacker #light  dark (default) or light
 listen_for_clients_preferred_style: true # true or false (default)
