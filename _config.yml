@@ -6,6 +6,7 @@ header_pages:
   - index.md #edu,exp
   - skills.md #skills
   - projects.md #projects
+  - certs.md #certifications
   - contact.md #contact
   - blog.md #blog
   
