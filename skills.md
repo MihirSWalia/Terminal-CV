@@ -4,6 +4,21 @@ layout: home
 permalink: /Skills
 ---
 
-# Lorem ipsum edit
-skills
-Edited Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+# Languages 
+
+- Bash
+- Python 
+- HTML5 / CSS
+- Bootstrap
+-  JS
+-  C
+-  C++
+-  Ruby
+
+# Grip On
+
+Ethical Hacking, Penetration Testing, Information Security, Server Operating System, Cryptography, Networking, Scripting, Cloud Computing, Google Cloud Platform, Amazon Web Services, Programming, Database Management and Digital Forensics.
+
+# Tools 
+
+Metasploit, Nmap, Burp-Suite, Go-Buster, Dirsearch, Enum4linux, Hydra, Sqlmap, Nessus, Google Dorking, Shodan, Wireshark, Aircrack-ng, John the ripper, Nikto, Owasp-Zap, Cupp, Samba, Apache, MongoDB, MySQL, Nginx, Nagios, Graylog, Jenkins, Redis, FTK imager, Recuva, Icare Pro, Git, GCP, AWS, Digital Ocean, Docker and Supervisor.
