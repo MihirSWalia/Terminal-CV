@@ -29,6 +29,7 @@ permalink: /Certs
 - <strong>Rangeforce :</strong> SOC Analyst 1.
 - <strong>PenetesterLab :</strong> Essential Badge.
 - <strong>PenetesterLab :</strong> PCAP Badge.
+- <strong>PenetesterLab :</strong> Serialize Badge.
 - <strong>PenetesterLab :</strong> UNIX Badge.
 - <strong>PenetesterLab :</strong> White Badge.
 - <strong>Qwik labs :</strong> Google Cloud Essentials.
